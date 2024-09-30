@@ -10,8 +10,6 @@ This course is taught in **JAVA** by our esteemed instructors:
 
 ## ⚠️ Caution: 
 - **Cheating**: Cheating in any form will not be tolerated in this course. All assignments and projects are to be completed individually unless specified otherwise.
-
-## ❌ Strictly Prohibited
 - **Stealing**: Using someone else's work without permission is strictly prohibited.
 - **Plagiarism**: Copying someone else's work and passing it off as your own is not allowed.
 - **Proper Attribute and Recognition of Author**: If you use someone else's work as a reference, you must give them proper credit.
@@ -36,5 +34,10 @@ Best regards,
 
 **Abdullah Al Mazid Zomader**
 
+# Run the class and test file simultaneously. Otherwise the codes will not work
 ## 📢Notice
-- Run the class and test file simultaneously. Otherwise the codes will not work
+With the end of the semester, the author is declaring the discontinuation of the update of this respiratory. 30/09/2024
+
+
+
+***Thank you and happy coding!***
